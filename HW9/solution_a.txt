@@ -1,0 +1,40 @@
+None
+None
+None
+None
+None
+
+There were no collisions for 3.
+Inserting 3 at position 3.
+None
+None
+None
+3
+None
+
+There were no collisions for 10.
+Inserting 0 at position 10.
+10
+None
+None
+3
+None
+
+There were no collisions for 2.
+Inserting 2 at position 2.
+10
+None
+2
+3
+None
+
+There were no collisions for 4.
+Inserting 4 at position 4.
+10
+None
+2
+3
+4
+
+Final result:
+10 None 2 3 4 

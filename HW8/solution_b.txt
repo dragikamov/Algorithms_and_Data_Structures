@@ -1,0 +1,32 @@
+Adding 35
+Current color red
+35 changed to black
+Adding 17
+Current color red
+35 changed to black
+Adding 26
+Current color red
+Rotating left 17
+26 changed to black
+35 changed to red
+Rotating right 35
+26 changed to black
+Adding 7
+Current color red
+17 changed to black
+35 changed to black
+26 changed to red
+26 changed to black
+Adding 42
+Current color red
+26 changed to black
+Adding 14
+Current color red
+Rotating left 7
+14 changed to black
+17 changed to red
+Rotating right 17
+26 changed to black
+
+(root.size = 6)
+26B 14B 7R 17R 35B 42R
